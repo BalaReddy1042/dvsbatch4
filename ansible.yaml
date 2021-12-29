@@ -1,0 +1,3 @@
+---
+- name: wotking with git ansible
+  Hosts: all
